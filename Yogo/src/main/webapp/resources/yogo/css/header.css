@@ -1,0 +1,20 @@
+@charset "EUC-KR";
+#header_logo :hover, #header_logo:visited, #header_logo:link{
+	text-decoration: none;
+	color: black;
+}
+.navbar-nav{
+	float: none;
+}
+
+.contents_padding_top{
+	margin-top: 70px;
+}
+
+#top_my_menu > li{
+	float: right;
+}
+#navbar > ul > li{
+	float:none;
+	display: inline-block;
+}
